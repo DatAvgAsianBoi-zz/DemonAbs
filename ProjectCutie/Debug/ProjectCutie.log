@@ -1,0 +1,3 @@
+﻿  CutieMain.cpp
+c:\users\user\source\repos\projectcutie\projectcutie\cutiemain.cpp(300): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ProjectCutie.vcxproj -> C:\Users\User\source\repos\ProjectCutie\Debug\ProjectCutie.exe
